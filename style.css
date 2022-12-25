@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    color: azure;
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+}
+body {
+    background-color: #604fdd;
+}
+.wrapper {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+#container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+.block {
+    width: 500px;
+    background: #3a3a62;
+    padding: 15px;
+    border-radius: 16px;
+}

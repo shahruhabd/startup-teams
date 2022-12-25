@@ -1,0 +1,32 @@
+{
+    "1_team": {
+        "title": "Pangea Team",
+        "desc": "Поиск руммейтов",
+        "users": 70
+    },
+    "2_team": {
+        "title": "Power team",
+        "desc": "Рекрутинг Алмаю",
+        "users": 30
+    },
+    "3_team": {
+        "title": "Brain Team",
+        "desc": "Сравнение цен",
+        "users": 25
+    },
+    "4_team": {
+        "title": "Aspect Team",
+        "desc": "Поиск поставщиков",
+        "users": 20
+    },
+    "5_team": {
+        "title": "Victory Team",
+        "desc": "Кинопоказы",
+        "users": 20
+    },
+    "6_team": {
+        "title": "Anhel Team",
+        "desc": "Кинопоказы",
+        "users": 20
+    }
+}
